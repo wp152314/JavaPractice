@@ -63,9 +63,9 @@ public class Question {
 		}
 		
 		StringBuilder sb = new StringBuilder("<<결과 출력>>\n");
-		sb.append("가장 좋아하는 가수는? ").append(singer).append("\n");
-		sb.append("가장 좋아하는 배우는? ").append(actor).append("\n");
-		sb.append("가장 좋아하는 과목은? ").append(study).append("\n");
+		sb.append("가장 좋아하는 가수는? ").append(singer).append("입니다.").append("\n");
+		sb.append("가장 좋아하는 배우는? ").append(actor).append("입니다.").append("\n");
+		sb.append("가장 좋아하는 과목은? ").append(study).append("입니다.").append("\n");
 		
 		System.out.println(sb.toString());
 

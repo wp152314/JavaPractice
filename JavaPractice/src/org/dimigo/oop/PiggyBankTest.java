@@ -12,7 +12,7 @@ package org.dimigo.oop;
  * 2. 작성일 : 2017. 4. 19.
  * </pre>
  *
- * @author :
+ * @author :amara
  * @version : 1.0
  *
  */
